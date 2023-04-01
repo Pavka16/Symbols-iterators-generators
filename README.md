@@ -10,7 +10,7 @@
 В личном кабинете на сайте [netology.ru](http://netology.ru/) в поле комментария к домашней работе добавьте ссылки на ваши GitHub-проекты.
 
 ---
-### [Символы и итераторы]()
-### [Символы и генераторы]()
+### [Символы и итераторы](https://github.com/Pavka16/Symbols-and-iterators)
+### [Символы и генераторы](https://github.com/Pavka16/Symbols-and-generators)
 
 
